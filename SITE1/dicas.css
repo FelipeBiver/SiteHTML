@@ -1,0 +1,44 @@
+div{
+width: 100%;
+height: 50px;
+}
+.txtdica{
+color: white;
+}
+.pesquise{
+margin-left: 50%
+}
+h1{
+color: white;
+}
+.txtlogin{
+Color:#00E6E4
+}
+.txtcadastro{
+Color:#00E6E4
+}
+h2{
+font: normal bold 10px arial, sans-serif;
+Color: white;
+}
+.titulo{
+font: normal bold 20px arial, sans-serif;
+Color: white;
+}
+.categoria{
+font: normal 15px arial, sans-serif;
+Color: white;
+}
+.filmesrec{
+width: 100%;
+}
+.vazio{
+width: 7%;
+}
+.vazio1{
+width: 4%;
+}
+.txtroda{
+font: normal bold 10px arial, sans-serif;
+Color: white;
+}
